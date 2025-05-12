@@ -1,4 +1,4 @@
-# Natural Language to SQL with LangGraph
+# Text to SQL with LangGraph
 
 This project implements a natural language to SQL query system for a PostgreSQL database containing the Pagila/IMDB dataset. It uses LangGraph to define an agentic workflow that processes natural language questions, converts them to SQL, and returns meaningful results with visualizations.
 
