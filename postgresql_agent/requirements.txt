@@ -1,0 +1,15 @@
+psycopg2-binary>=2.9.9
+huggingface-hub>=0.20.3
+langchain-core>=0.1.22
+python-dotenv>=1.0.1
+tenacity>=8.2.3
+typing-extensions>=4.8.0
+python-dateutil>=2.8.2
+pandas>=2.0.0
+matplotlib>=3.8.0
+numpy>=1.24.0
+langchain>=0.0.325
+langsmith>=0.0.66
+langgraph>=0.0.30
+streamlit>=1.28.0
+plotly>=5.18.0 
